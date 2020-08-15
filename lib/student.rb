@@ -1,7 +1,7 @@
 class Student
 
-  def initialize(argument)
-    @argument = argument
+  def initialize
+    
   end
 
   def hello
